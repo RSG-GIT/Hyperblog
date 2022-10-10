@@ -1,8 +1,5 @@
-Esto es un título
+Esta es la historia de Renso Solerti 
 
-Esto es un título centrado
+Renso Solerti tiene 42 a;os y nacio en Costa Rica
 
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
-
-
-Y esto de arriba es la foto de unas Suricatas.
+Hoy hablaremos de la historia de Renso Solerti
